@@ -1,18 +1,30 @@
-Hey, I’m ananymoos and welcome to my profile! Here is some information about me.
+Hey, Here is some information about me
 
-Fluent Programming Languages
+
+Fluent Programming Languages:
+
 HTML
 CSS
 JavaScript
 Python
 C#
 Lua
-Fluent Languages
-English
-Arabic
-Bengali
-Operating Systems
 
+
+Fluent Languages:
+
+English
+Dutch
+German
+
+
+Operating Systems:
+
+Windows 11
+Windows 10
+Windows 7
+Linux
+VMWARE
 
 
 
